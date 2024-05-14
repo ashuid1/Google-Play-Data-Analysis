@@ -9,8 +9,8 @@ Trending Categories: Identify categories that are gaining popularity over time a
 Top Categories by Downloads: Determine which categories have the highest number of downloads and user engagement.
 App Ratings and Reviews:
 
-Rating Distribution: Analyze the distribution of app ratings to assess overall user satisfaction.
-Review Sentiment Analysis: Use natural language processing (NLP) techniques to analyze app reviews for sentiment (positive, negative, neutral) and identify common themes or issues mentioned by users.
+
+
 Impact of Ratings on Downloads: Investigate how app ratings correlate with download counts and user engagement.
 App Size and Performance:
 
